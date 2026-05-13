@@ -1,0 +1,8 @@
+opencv-python
+numpy
+streamlit
+Pillow
+imutils
+matplotlib
+scikit-image
+pytesseract
