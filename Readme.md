@@ -1,6 +1,6 @@
 # OpenCV Vision Playground
 
-[View app screenshot](assets/open_cv_vision_playground.png)
+<img width="1920" height="951" alt="Image" src="https://github.com/user-attachments/assets/3cef1399-c0f5-4b8d-b881-ce8abe1d269e" />
 
 A Streamlit-based image processing application built with OpenCV and Python. This project demonstrates a range of computer vision techniques such as face detection, object detection, document enhancement, edge detection, cartoon style transfer, pencil sketch conversion, blur analysis, OCR scanning, and facial emotion detection.
 
