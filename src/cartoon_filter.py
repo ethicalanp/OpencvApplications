@@ -12,6 +12,7 @@ def cartoon_filter(image):
         9,
         9
     )
+    
 
     color = cv2.bilateralFilter(image,
                                 9,
